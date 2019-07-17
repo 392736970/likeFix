@@ -1,0 +1,5 @@
+.mini-btn{
+  position: absolute;
+  right: 15px;
+  bottom: 25px
+}

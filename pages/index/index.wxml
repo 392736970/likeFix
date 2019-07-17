@@ -1,0 +1,4 @@
+<view>
+  <like-fx count="{{count}}"></like-fx>
+  <button class="mini-btn" type="warn" size="mini" bindtap="clickHandler">{{count}}</button>
+</view>
